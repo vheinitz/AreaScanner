@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9,00"
 	Name="opencvtest"
-	ProjectGUID="{F52041CD-95E7-3B0C-A7E5-A6196949E533}"
+	ProjectGUID="{807269D4-7C03-3F7E-8A92-8ED274269ABF}"
 	Keyword="Qt4VSv1.0">
 	<Platforms>
 		<Platform
